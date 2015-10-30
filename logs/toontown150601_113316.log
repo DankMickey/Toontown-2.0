@@ -1,0 +1,68 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv0.0.0.1-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x142D72D8>}
+:Actor(warning): no part named head-front*!
+:Actor(warning): no part named head-front*!
+:Actor(warning): no part named head-front*!
+:Actor(warning): no part named head-front*!
+:ToontownTimeManager(warning): error parsing date string=
+local
+:NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+fisherman origin:  render/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+:Teleport(debug): teleportInDone: walk
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2202/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2203/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:GenericAnimatedProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2204/animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2204/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2205/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2206/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2207/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2208/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:GenericAnimatedProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2210/animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2210/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2211/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2213/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2215/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2217/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2219/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:TrashcanInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2220/interactive_prop_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2223/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:GenericAnimatedProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2225/animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:GenericAnimatedProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2225/animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2225/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:HydrantInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2227/interactive_prop_phase_5_models_char__ttc_hydrant_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2229/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2230/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2232/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:GenericAnimatedProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2233/animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2233/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+:MailboxInteractiveProp(warning): calcHoodId couldn't parse hidden/scene/toontownCentral/2235/interactive_prop_phase_5_models_char__ttc_mailbox_DNARoot using 0
+fisherman origin:  render/town_top_level/toontownCentral/2236/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+fisherman origin:  render/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+:Teleport(debug): teleportInDone: walk
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
