@@ -576,8 +576,6 @@ def __doFireHose(squirt, delay, fShowStun):
     tracks.append(propTrack)
     if hp > 0:
         tracks.append(__getSplashTrack(targetPoint, 0.4, 2.7, battle, splashHold=1.5))
-    # TODO: We added in an unused animation for the cogs reaction where the cog pushes against the gush from a fire hose.
-    # The stream from the fire hose needs to be scaled with the cog's animation - right now it is static.
     if hp > 0 or delay <= 0:
         tracks.append(__getSuitTrack(suit, tContact, tSuitDodges, hp, hpbonus, kbbonus, 'squirt-large-react', died, leftSuits, rightSuits, battle, toon, fShowStun, revived=revived))
     return tracks

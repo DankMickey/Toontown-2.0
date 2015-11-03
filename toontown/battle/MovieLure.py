@@ -283,8 +283,8 @@ def __lureSlideshow(lure, npcs):
 
 
 def __createSuitDamageTrack(battle, suit, hp, lure, trapProp):
-    if trapProp == None or trapProp.isEmpty():
-        return Func(suit.loop, 'neutral')
+    if (trapProp is None) or trapProp.isEmpty():
+        return Func(suit.loop, 'lured')
     trapProp.wrtReparentTo(battle)
     trapTrack = ToontownBattleGlobals.TRAP_TRACK
     trapLevel = suit.battleTrap
