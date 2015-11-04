@@ -172,13 +172,13 @@ Cog = 'Cog'
 Cogs = 'Cogs'
 ACog = 'a Cog'
 TheCogs = 'The Cogs'
-ASkeleton = 'a Skelecog'
-Skeleton = 'Skelecog'
-SkeletonP = 'Skelecogs'
+ASkeleton = 'a Skeleton'
+Skeleton = 'Skeleton'
+SkeletonP = 'Skeletons'
 Av2Cog = 'a Version 2.0 Cog'
 v2Cog = 'Version 2.0 Cog'
 v2CogP = 'Version 2.0 Cogs'
-ASkeleton = 'a Skelecog'
+ASkeleton = 'a Skeleton'
 Foreman = 'Factory Foreman'
 ForemanP = 'Factory Foremen'
 AForeman = 'a Factory Foreman'
@@ -294,7 +294,7 @@ QuestsBuildingQuestFloorNumbers = ('',
  'two+',
  'three+',
  'four+',
- 'five+')
+ 'five')
 QuestsBuildingQuestBuilding = 'Building'
 QuestsBuildingQuestBuildings = 'Buildings'
 QuestsBuildingQuestHeadline = 'DEFEAT'
@@ -9520,7 +9520,7 @@ CogNationHint1Start = 'Someone suspicious is happening over in Tenor Terace...'
 CogNationHint2Start = 'Lofty Seafare has set up shop in his Lighthouse in Lighthouse Lane! You should see what he is up to...'
 CogNationHint3Start = 'Tenor Terace has been taken over by the Cogs! Stop them!'
 CogNationHint4Start = 'Calling all high Toons, Flippy needs YOUR help! Go meet him in Toon Hall!'
-LogoutForced = 'You have done something wrong\n and are being logged out automatically,\n additionally your account may be frozen.\n Try going on a walk outside, it is fun.'
+LogoutForced = 'You have done something wrong\n and are being logged out automatically,\n additionally your account may be frozen.'
 CountryClubToonEnterElevator = '%s \nhas jumped in the golf kart.'
 CountryClubBossConfrontedMsg = '%s is battling the Club President!'
 ElevatorBlockedRoom = 'All challenges must be defeated first.'
@@ -9544,7 +9544,7 @@ toonFinishedHedgeMaze = '%s \n  finished in %s place!'
 hedgeMazePlaces = ['first',
  'second',
  'third',
- 'Fourth']
+ 'fourth']
 mazeLabel = 'Maze Race!'
 BoardingPartyReadme = 'Boarding Group?'
 BoardingGroupHide = 'Hide'
