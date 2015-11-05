@@ -1,6 +1,6 @@
 # Client
 window-title Toontown
-server-version svl-1.1.1
+server-version svl-1.1.2
 sync-video #f
 want-dev #f
 preload-avatars #t
