@@ -1,4 +1,2 @@
 cd `dirname $0`
-cd ..
-cd astron
-./astrond --loglevel info config/astrond.yml
+./astrond --loglevel info ../astron/config/astrond.yml

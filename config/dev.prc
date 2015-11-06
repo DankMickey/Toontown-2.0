@@ -40,7 +40,6 @@ want-cheesy-expirations #f
 
 # DC Files
 dc-file config/toon.dc
-dc-file config/otp.dc
 
 # Game features
 want-pets #f
