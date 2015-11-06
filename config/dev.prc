@@ -1,5 +1,5 @@
 # Client
-window-title Toontown
+window-title Toontown 2.0
 server-version svl-1.1.2
 sync-video #f
 want-dev #f
@@ -44,8 +44,8 @@ dc-file config/otp.dc
 
 # Game features
 want-pets #f
-want-news-tab #f
-want-news-page #f
+want-news-tab #t
+want-news-page #t
 want-accessories #t
 want-parties #t
 want-gardening #f
